@@ -12,4 +12,4 @@ The code is available in the [Applied Mechanics' repository](https://github.com/
 
 ## Contents
 
-* [00a: Introductory Notebook](https://nbviewer.jupyter.org/github/AppliedMechanics-EAFIT/Introductory-Finite-Elements/blob/master/notebooks/00a_introductory_notebook.ipynb)
+* [01: Strain analysis at material point](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/analisis_deformacion.ipynb)
