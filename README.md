@@ -1,6 +1,6 @@
 # SolidsPy based learning experiences
 
-[![Binder](https://mybinder.org/v2/gh/jgomezc1/SolidsPy_experiences/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgomezc1/SolidsPy_experiences/master)
 
 ![Displacement field in a wrench.](./notebooks/img/wrench.png)
 
