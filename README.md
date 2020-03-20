@@ -1,5 +1,7 @@
 # SolidsPy based learning experiences
 
+![Displacement field in a wrench.](./notebooks/img/wrench.png)
+
 ## Introduction
 
 This repo contains various learning experinces using the bi-dimensional finite element code SolidsPy.
