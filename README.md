@@ -14,4 +14,4 @@ The code is available in the [Applied Mechanics' repository](https://github.com/
 
 ## Contents
 
-* [01: Strain analysis at material point](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/analisis_deformacion.ipynb)
+* [01: Strain analysis at material point](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/analisis_dformacion/analisis_deformacion.ipynb)
