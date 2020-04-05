@@ -22,3 +22,5 @@ The code is available in the [Applied Mechanics' repository](https://github.com/
 
 * [04: Modelación computacional: taller 1](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/taller_1_modelacion/taller1.ipynb)
 
+* [05: Modelación computacional: taller 2](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/taller_1_modelacion/taller1.ipynb)
+
