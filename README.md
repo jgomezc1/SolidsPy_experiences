@@ -18,7 +18,7 @@ The code is available in the [Applied Mechanics' repository](https://github.com/
 
 * [02: Response of a trapezoidal dam](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/analisis_presa/01_solidspy_dam_design.ipynb)
 
-* [03: The Jacobian operator](https://https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/jacobian/jacobiano.ipynb)
+* [03: The Jacobian operator](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/jacobian/jacobiano.ipynb)
 
 * [04: Modelación computacional: taller 1](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/taller_1_modelacion/taller1.ipynb)
 
