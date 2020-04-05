@@ -20,5 +20,5 @@ The code is available in the [Applied Mechanics' repository](https://github.com/
 
 * [03: The Jacobian operator](https://https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/jacobian/jacobiano.ipynb)
 
-* [04: Modelación computacional: taller 1](https://https://https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/taller_1_modelacion/taller1.ipynb)
+* [04: Modelación computacional: taller 1](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/taller_1_modelacion/taller1.ipynb)
 
