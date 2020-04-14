@@ -14,11 +14,11 @@ The code is available in the [Applied Mechanics' repository](https://github.com/
 
 ## Contents
 
-* [01: Response of a trapezoidal dam](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/analisis_presa/01_solidspy_dam_design.ipynb)
+* [01: Response of a trapezoidal dam (Español)](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/analisis_presa/01_solidspy_dam_design.ipynb)
 
-* [02: The Jacobian operator](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/jacobian/jacobiano.ipynb)
+* [02: The Jacobian operator (Inglish)](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/jacobian/jacobiano.ipynb)
 
-* [03: Modelación computacional: taller 1](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/taller_1_modelacion/taller1.ipynb)
+* [03: Visualización sln Presa (Español)](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/taller_1_modelacion/taller1.ipynb)
 
-* [04: Modelación computacional: taller 2](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/taller_2_modelacion/taller2.ipynb)
+* [04: Análisis presa triangular (Español)](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/taller_2_modelacion/taller2.ipynb)
 
