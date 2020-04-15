@@ -82,7 +82,7 @@ def dam_loading(cells, cell_data, phy_lin, nodes , gamma_h , Hdam):
     nodes_line, line_x, line_y = locate_pts_line(phy_lin, nodes , cells , cell_data)
     cargas = np.zeros((ncargas, 3))
     cargas[:, 0] = nodes_carga
-    cargas[:, 1] = 0.5*gamma_h*(Hdam-line_y)*Hdam/ncargas
+    cargas[:, 1] = gamma_h*(Hdam-line_y)*Hdam/ncargas
     return cargas
 
 #
