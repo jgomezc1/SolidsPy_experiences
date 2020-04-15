@@ -22,3 +22,5 @@ The code is available in the [Applied Mechanics' repository](https://github.com/
 
 * [04: Análisis FEM presa triangular (Español)](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/taller_2_modelacion/taller2.ipynb)
 
+* [05: Análisis de deformación (Español)](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/strain/strain.ipynb)
+
