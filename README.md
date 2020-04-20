@@ -24,3 +24,4 @@ The code is available in the [Applied Mechanics' repository](https://github.com/
 
 * [05: Análisis de deformación (Español)](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/strain/strain.ipynb)
 
+* [06: Taller 2 FEM (Neumann CF) (Español)](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/strain/strain.ipynb)
