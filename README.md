@@ -25,3 +25,5 @@ The code is available in the [Applied Mechanics' repository](https://github.com/
 * [05: Análisis de deformación (Español)](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/strain/strain.ipynb)
 
 * [06: Taller 2 FEM (Neumann CF) (Español)](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/taller_2_fem/neumann_bcs.ipynb)
+
+* [07: Plantilla de informe proyecto final MEFs](https://nbviewer.jupyter.org/github/jgomezc1/SolidsPy_experiences/blob/master/notebooks/plantilla_proyecto_fem/proyecto_ejemplo.ipynb)
